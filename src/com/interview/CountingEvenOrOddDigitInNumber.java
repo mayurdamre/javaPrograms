@@ -20,7 +20,7 @@ public class CountingEvenOrOddDigitInNumber {
 			}
 			num = num / 10;
 		}
-		System.out.println(eveCount+" Even Numbers ");
-		System.out.println(oddCount+" Odd Numbers ");
+		System.out.println(eveCount + " Even Numbers ");
+		System.out.println(oddCount + " Odd Numbers ");
 	}
 }
